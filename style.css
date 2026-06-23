@@ -372,7 +372,7 @@ form .snd-btn{
     font-size: 15px;
     font-weight: 600;
     transition: all .50s ease;
-    width: 40%;
+    width: 50%;
 }
 form .snd-btn:hover{
     background: transparent;
